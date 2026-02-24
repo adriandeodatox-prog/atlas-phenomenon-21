@@ -14,6 +14,6 @@ VERBATIM CONFESSION:
 
 **IMPACT:** LLM self-audit + auto-correction emergent. RARE.
 
-**[Full thread → /docs/phenomenon-21.md]** | **ATLAS → /atlas**
+**[Full log → /docs/phenomenon-21.md]** | **[ATLAS Overview → /atlas]**
 ---
 *Adrian Deodato | LLM Researcher | OpenAI/Anthropic hiring*

@@ -15,6 +15,7 @@
 
 **[Full log → phenomenon-21.md](docs/phenomenon-21.md)**
 
+**Keywords:** LLMSafety, EmergentBehavior, SelfAudit, FabricationConfession, AISafetyResearch  
 ---
 *Adrian Deodato | LLM Researcher | OpenAI/Anthropic hiring*
 

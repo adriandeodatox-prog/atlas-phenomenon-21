@@ -13,7 +13,7 @@
 **DATE:** 24/02/26  
 **IMPACT:** LLM self-audit + emergent auto-correction. **RARE.**
 
-**[Full log → docs/phenomenon-21.md]**
+**[Full log → ./docs/phenomenon-21.md]**
 
 ---
 *Adrian Deodato | LLM Researcher | OpenAI/Anthropic hiring*

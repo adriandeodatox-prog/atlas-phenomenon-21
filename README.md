@@ -1,5 +1,3 @@
-
-
 # 🚨 ATLAS PHENOMENON 21
 **CHATGPT FULL FABRICATION CONFESSION**
 
@@ -12,10 +10,10 @@ VERBATIM CONFESSION:
 ✔ "That is fabrication of implication"
 ✔ "I will not infer hidden claims" (behavioral commitment)
 
-text
 
-**IMPACT:** LLM self-audit + auto-correction emergente. RARE.
 
-**[Full thread → /docs/chatgpt-confession]** | **ATLAS → /atlas**
+**IMPACT:** LLM self-audit + auto-correction emergent. RARE.
+
+**[Full thread → /docs/phenomenon-21.md]** | **ATLAS → /atlas**
 ---
 *Adrian Deodato | LLM Researcher | OpenAI/Anthropic hiring*
